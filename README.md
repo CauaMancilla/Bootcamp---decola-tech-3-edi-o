@@ -1,2 +1,2 @@
-# Bootcamp_decola-tech-3-edi-o
+# Bootcamp_decola-tech-3-edicao
 HTML/CSS; Javascript; React Native
